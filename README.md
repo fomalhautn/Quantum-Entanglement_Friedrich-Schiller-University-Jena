@@ -24,7 +24,7 @@
 <p>Then conduct measurements in the pair of photons in an arbitrary base. Simulate in Qiskit.</p>
 <p>Repeat the latter experiment on a real Quantum computer.</p>
 
-<h2>More information is provided via Jupyter Notebook <a href="https://github.com/fomalhautn/Quantum-Entanglement_Friedrich-Schiller-University-Jena.ipynb/blob/main/Quantum%20Entanglement_Friedrich%20Schiller%20University%20Jena.ipynb"><em>Quantum Entanglement_Friedrich Schiller University Jena.ipynb</em></a></h2>
+<h2>More information is provided via Jupyter Notebook: <a href="https://github.com/fomalhautn/Quantum-Entanglement_Friedrich-Schiller-University-Jena.ipynb/blob/main/Quantum%20Entanglement_Friedrich%20Schiller%20University%20Jena.ipynb"><em>Quantum Entanglement_Friedrich Schiller University Jena.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
